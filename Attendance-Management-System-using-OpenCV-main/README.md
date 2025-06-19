@@ -7,25 +7,9 @@ The Attendance Management System is a Python-based application that uses OpenCV 
 
 ## Contributors
 
--> KrishnaRaj
+-> Ritam Saha
 
-  Linkedin Handle: https://www.linkedin.com/in/krishnaraj-d-b156b5280/
-  
--> Lokesh Rahul
-
-  Linkedin Handle: https://www.linkedin.com/in/lokesh-rahul-066ab7277
-  
--> Aakash
-
-  Linkedin Handle: https://in.linkedin.com/in/aakash-p-631677272
-  
--> Vasantha Mukilan
-
-  Linkedin Handle: https://www.linkedin.com/in/vasanthamukilan-m-11644b279
-  
--> karthick
-
-  Linkedin Handle: https://www.linkedin.com/in/karthick-prabakaran-8253211b6/
+  Linkedin Handle: https://www.linkedin.com/in/ritam-saha-a08566262/
 
 ## Features
 
@@ -68,15 +52,7 @@ step 3 - Run the main script:
 python3 main.py
 ```
 
-### Output:
 
-#### scanning the face:
-![Screenshot 2023-09-10 133018](https://github.com/Attendance-Management-System-Open-CV/Attendance-Management-System-using-OpenCV/assets/72570119/5ffa2f5d-bd99-46ae-939f-49b3e761acc0)
-
-
-#### Updating the present students in an csv file:
-
-![Screenshot 2023-09-10 133334](https://github.com/Attendance-Management-System-Open-CV/Attendance-Management-System-using-OpenCV/assets/72570119/742ea06d-94b6-41e1-babf-d9d511b04722)
 
 
 
